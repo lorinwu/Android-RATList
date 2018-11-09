@@ -16,7 +16,7 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - GPS Location
   - Microphone
   
-- AndroRAT https://github.com/DesignativeDave/androrat
+- AndroRAT https://github.com/DesignativeDave/androrat (bingo)
   - Get contacts (and all theirs informations)
   - Get call logs
   - Get all messages
