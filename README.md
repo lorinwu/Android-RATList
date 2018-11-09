@@ -63,7 +63,7 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - record microphone
   - camera snap, stream, list
   
-- BetterAndroRAT https://github.com/mwsrc/BetterAndroRAT
+- BetterAndroRAT https://github.com/mwsrc/BetterAndroRAT (Bingo)
   - Remote Update & Install Application
   - Remote WebCam
   - Remote Microphone Record
@@ -201,7 +201,7 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - SMS
   - Payload
   
-- Dendroid https://github.com/nyx0/Dendroid
+- Dendroid https://github.com/nyx0/Dendroid (bingo)
   - Deleting call logs
   - Opening web pages
   - Dialing any number
