@@ -46,7 +46,7 @@ Looking for free port forwarding without buy VPN or Router setting?? Use [Ngrok]
   - Get phone’s information (IMEI, WIFI MAC, PHONE CARRIER).
   - Fun Panel (Show messages, shake the phone etc)
 
-- AhMyth https://github.com/AhMyth/AhMyth-Android-RAT
+- AhMyth https://github.com/AhMyth/AhMyth-Android-RAT (bingo)
   - Camera
   - Storage
   - Microphone
